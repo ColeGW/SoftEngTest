@@ -7,3 +7,4 @@ Kevin McCrudden
 Justin Yip
 Michael Lin
 Cole Welcher
+Daniel Reynolds
